@@ -1,1 +1,0 @@
-# -Modified-kernel-regression-method-for-the-denoising-of-X-ray-pulsar-profiles
